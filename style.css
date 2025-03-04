@@ -7,6 +7,7 @@ body {
 
 header {
     background-color: #1F2937;
+    color: #F9FAF8;
     font-size: 18px;
     display: flex;
     justify-content: center;
@@ -82,7 +83,6 @@ button {
 
 .right-side {
     max-width: 100%;
-    border: solid;
     height: 300px;
     text-align: center;
     overflow: hidden;
